@@ -4,7 +4,8 @@ import android.content.Context;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.PowerManager;
-import android.support.annotation.Nullable;
+// import android.support.annotation.Nullable;
+import javax.annotation.Nullable;
 import android.util.Log;
 
 import com.facebook.react.bridge.Callback;

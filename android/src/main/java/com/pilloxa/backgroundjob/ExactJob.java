@@ -3,7 +3,8 @@ package com.pilloxa.backgroundjob;
 import android.app.IntentService;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
+// import android.support.annotation.Nullable;
+import javax.annotation.Nullable;
 import java.util.Set;
 
 public class ExactJob extends IntentService {
